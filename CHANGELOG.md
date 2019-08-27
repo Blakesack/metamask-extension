@@ -3,6 +3,7 @@
 ## Current Develop Branch
 
 ## 7.1.1 Tue Aug 27 2019
+- [#7059](https://github.com/MetaMask/metamask-extension/pull/7059): Remove blockscale, replace with ethgasstation
 
 ## 7.1.0 Fri Aug 16 2019
 - [#7035](https://github.com/MetaMask/metamask-extension/pull/7035): Filter non-ERC-20 assets during mobile sync (#7035)
